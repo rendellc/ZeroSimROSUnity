@@ -1,2 +1,2 @@
 [lfs]
-	url = ssh://git@github.com:fsstudio-team/ZeroSimROSUnity.git
+	url = git@github.com:rendellc/ZeroSimROSUnity.git
